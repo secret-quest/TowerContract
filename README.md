@@ -1,5 +1,7 @@
 ## Foundry
 
+Our deployed contract to Morph: https://explorer-holesky.morphl2.io/address/0x20A5d42bE852cC29fc1cBd0FF42B34D9AEc6D29d
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
